@@ -1,0 +1,7 @@
+{
+  "buildCommand": "flutter build web",
+  "outputDirectory": "build/web",
+  "env": {
+    "API_KEY": "@api_key"
+  }
+}
